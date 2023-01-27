@@ -1,4 +1,4 @@
-# FITFAIZ-AI-Exercise
+# FITFAIZ AI Exercise
 
 FITFAIZ-AI-Exercise is a web application and deep machine learning model in a university software camp (ZES 13) that can improve user squat workout technique by using machine learning model 
 
