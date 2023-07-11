@@ -4,5 +4,5 @@ FITFAIZ-AI-Exercise is a web application and deep machine learning model in a un
 
 Objective of this project
 1. To study machine learning and deep learning 
-2. To study javascript and css
+2. To study html/css and flask to deployment model
 2. To make a website that can help user to improve their squat workout 
